@@ -141,11 +141,3 @@ Displays all locations along with the employees assigned to each location. Locat
 | Employees | 30 |
 
 ---
-
-## 📁 Project Structure
-
-```text
-Employee-Database-Management-System/
-│
-├── Assignment_2_Querying_Data.sql
-└── README.md
