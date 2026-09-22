@@ -141,3 +141,9 @@ Displays all locations along with the employees assigned to each location. Locat
 | Employees | 30 |
 
 ---
+## 👩‍💻 Author
+
+**Akshaya S**
+
+B.Sc. Computer Science Graduate  
+Aspiring Data Analyst
